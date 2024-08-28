@@ -9,3 +9,5 @@
     If you'd like to jump right into creating your own webcomic with comic_git, check out the <a href="https://github.com/ryanvilbrandt/comic_git/wiki/Getting-Started">Getting Started</a> section.</p>
 
 <p>(To edit this page when you're setting up your own website, edit the file <code>/your_content/home page.txt</code>)</p> 
+
+<p>Insert test text here.</p>
